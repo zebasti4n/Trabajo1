@@ -1,0 +1,524 @@
+body{
+    /* Desktop - 1 */
+
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #D0DB97;
+}
+
+.titulo{
+    /* |DATOS PERSONALES| */
+    position: absolute;
+    width: 564.24px;
+    height: 49px;
+    left: 500px;
+    top: 20px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    
+    color: #181D27;
+    
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.subtitulo{
+    position: absolute;
+    width: 365px;
+    height: 22px;
+    left: 600px;
+    top: 72px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.r1{
+    position: absolute;
+width: 1207px;
+height: 0px;
+left: 107px;
+top: 97.5px;
+
+border: 1px solid #000000;
+}
+
+.hoja{
+    position: absolute;
+width: 154px;
+height: 103px;
+left: 300px;
+top: 9px;
+
+background: url(images/image-removebg-preview\ 1.png);
+}
+
+
+.t1{
+
+
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left:0px;
+    top: 0px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #000000;
+
+}
+.t2{
+    position: absolute;
+    width: 600px;
+    height: 20px;
+    left: 0px;
+    top: 20px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    letter-spacing: 0.2em;
+    text-align: center;
+    
+    color: #000000;
+
+}
+.t3{
+
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 0x;
+    top: 40px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #000000;
+
+}
+.t4{
+
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 0px;
+    top: 60px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #000000;
+
+}
+
+.t5{
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 0px;
+    top: 80px;
+    
+    font-family: SeoulHangang CEB;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #000000;
+    
+}
+
+.c1{   
+position: absolute;
+width: 700px;
+height: 130px;
+left: 450px;
+top: 250px;
+
+background: #ffff;
+}
+
+.c1a{
+    position: absolute;
+    width: 720px;
+    height: 130px;
+    left: 500px;
+    top: 270px;
+    
+    background: #214E34;
+}
+.infa{
+position: absolute;
+width: 790px;
+height: 80px;
+left: 70px;
+top: 0px;
+
+background: #ffff;
+}
+
+
+.c2{
+    position: absolute;
+    width: 789.02px;
+    height: 76.75px;
+    left: 344px;
+    top: 540px;
+    
+    background: #FFFFFF;
+}
+.c2a{
+    position: absolute;
+    width: 760px;
+    height: 86.7px;
+    left: 387.99px;
+    top: 540px;
+    
+    background: #214E34;
+}
+    .edu{
+        font-family: SeoulHangang CEB;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 25px;
+        left: 0px;
+        display: flex;
+        align-items: center;
+        color: #181D27;
+        
+        mix-blend-mode: normal;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .ba{
+        position: absolute;
+        width: 295.88px;
+        height: 31.27px;
+        left: 618px;
+        top: 360px;
+        
+        }
+
+.c3{
+    position: absolute;
+    width: 810px;
+    height: 80px;
+    left: 344px;
+    top: 650px;
+    
+    background: #FFFFFF;
+
+}
+.c3a{
+    position: absolute;
+width: 780px;
+height: 90px;
+left: 383.81px;
+top: 650px;
+
+background: #214E34;
+}
+
+.c4{
+    position: absolute;
+    width: 790px;
+    height: 141px;
+    left: 353px;
+    top: 780px;
+    
+    background: #FFFFFF;
+}
+.c4aa{
+    position: absolute;
+    width: 770px;
+    height: 142px;
+    left: 390.4px;
+    top: 790px;
+    
+    background: #214E34;
+}
+
+.c5{
+    position: absolute;
+width: 775.63px;
+height: 118.53px;
+left: 353px;
+top: 1000px;
+
+background: #FFFFFF;
+}
+.c5a{
+    position: absolute;
+width: 743px;
+height: 118.53px;
+left: 398.35px;
+top: 1010px;
+
+background: #214E34;
+}
+
+.l{
+    position: absolute;
+width: 3000px;
+height: 0px;
+left: 0px;
+top: 200px;
+
+border: 1px solid #000000;
+}
+
+.l2{
+    position: absolute;
+width: 3000px;
+height: 0px;
+left: 0px;
+top: 480px;
+
+border: 1px solid #000000;
+}
+
+.foto{
+position: absolute;
+width: 250px;
+height: 250px;
+left: 999px;
+top: 230px;
+
+background: url(images/231700520_229683422356286_4694296832878463858_n.jpg);
+border-radius: 1000px;
+}
+.go{
+    position: absolute;
+width: 108px;
+height: 131px;
+left: 268px;
+top: 900px;
+
+background: url(images/2787\ 1.png);
+}
+
+.e{
+    position: absolute;
+    width: 350px;
+    height: 31.27px;
+    left: 300px;
+    top: 20px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #000000;
+}
+.e1{
+    position: absolute;
+width: 600px;
+height: 31.27px;
+left: 130px;
+top: 25x;
+
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.2em;
+color: #000000;
+}
+
+.h1{
+    position: absolute;
+width: 600px;
+height: 30.13px;
+left: 300px;
+top: 20px;
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.h2{
+    position: absolute;
+width: 600px;
+height: 24px;
+left: 300px;
+top: 40px;
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.2em;
+/* identical to box height */
+
+
+color: #000000;
+}
+.h3{
+    position: absolute;
+width: 600px;
+height: 24.1px;
+left: 300px;
+top: 60px;
+
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.2em;
+color: #000000;
+}
+
+.h4{
+    position: absolute;
+width: 600px;
+height: 20.49px;
+left: 300px;
+top: 80px;
+
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.2em;
+
+color: #000000;
+
+}
+.h5{
+    position: absolute;
+width: 600px;
+height: 47px;
+left: 300px;
+top: 100px;
+
+font-family: Kaushan Script;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.h1a{
+    position: absolute;
+    width: 600px;
+    height: 16.76px;
+    left: 300px;
+    top: 0px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #000000;
+}
+.h2a{
+    position: absolute;
+    width: 600px;
+    height: 35.62px;
+    left: 300px;
+    top: 20px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #000000;
+    
+}
+.h3a{
+    position: absolute;
+    width: 600px;
+    height: 28.29px;
+    left: 300px;
+    top: 40px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #000000;
+}
+.h4a{
+    position: absolute;
+    width: 600px;
+    height: 17.81px;
+    left: 300px;
+    top: 60px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #000000;
+    
+}
+.h5a{
+    position: absolute;
+    width: 600px;
+    height: 17.81px;
+    left: 300px;
+    top: 80px;
+    
+    font-family: Kaushan Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #000000;
+    
+}
